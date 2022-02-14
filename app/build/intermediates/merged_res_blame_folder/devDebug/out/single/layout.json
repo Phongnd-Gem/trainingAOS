@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_main.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/content_splash.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/content_splash.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_splash2.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/activity_splash2.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_trailer.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/activity_trailer.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_splash.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "/Users/haudau/Downloads/MyCore/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Users/haudau/Downloads/MyCore/app/src/main/res/layout/fragment_first.xml"
+    }
+]

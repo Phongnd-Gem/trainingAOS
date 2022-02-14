@@ -1,0 +1,63 @@
+com/example/mycore/modules/net/ApiService.java
+ com.example.mycore.modules.net.ApiService
+com/example/mycore/common/core/Action.java
+ com.example.mycore.common.core.Action
+com/example/mycore/modules/main/MainActivityModel.java
+ com.example.mycore.modules.main.MainActivityModel
+com/example/mycore/modules/home/HomeActivity.java
+ com.example.mycore.modules.home.HomeActivity
+com/example/mycore/common/core/FragmentView.java
+ com.example.mycore.common.core.FragmentView
+com/example/mycore/databinding/ActivityHomeBinding.java
+ com.example.mycore.databinding.ActivityHomeBinding
+com/example/mycore/BuildConfig.java
+ com.example.mycore.BuildConfig
+com/example/mycore/common/core/ViewStateObserver.java
+ com.example.mycore.common.core.ViewStateObserver
+com/example/mycore/modules/main/MainActivityAction.java
+ com.example.mycore.modules.main.MainActivityAction
+com/example/mycore/databinding/FragmentSecondBinding.java
+ com.example.mycore.databinding.FragmentSecondBinding
+com/example/mycore/modules/main/MainFragment.java
+ com.example.mycore.modules.main.MainFragment
+com/example/mycore/databinding/FragmentSplashBinding.java
+ com.example.mycore.databinding.FragmentSplashBinding
+com/example/mycore/common/core/ActivityView.java
+ com.example.mycore.common.core.ActivityView
+com/example/mycore/databinding/ContentSplashBinding.java
+ com.example.mycore.databinding.ContentSplashBinding
+com/example/mycore/databinding/ActivityTrailerBinding.java
+ com.example.mycore.databinding.ActivityTrailerBinding
+com/example/mycore/modules/net/GithubAPI.java
+ com.example.mycore.modules.net.GithubAPI
+com/example/mycore/common/core/CoreUtils.java
+ com.example.mycore.common.core.CoreUtils
+com/example/mycore/common/core/ViewModel.java
+ com.example.mycore.common.core.ViewModel
+com/example/mycore/modules/main/MainFragmentAction.java
+ com.example.mycore.modules.main.MainFragmentAction
+com/example/mycore/modules/main/MainFragmentModel.java
+ com.example.mycore.modules.main.MainFragmentModel
+com/example/mycore/modules/main/MainActivity.java
+ com.example.mycore.modules.main.MainActivity
+ com.example.mycore.modules.main.MainActivity$1
+com/example/mycore/common/App.java
+ com.example.mycore.common.App
+com/example/mycore/modules/trailer/TrailerActivity.java
+ com.example.mycore.modules.trailer.TrailerActivity
+com/example/mycore/modules/main/MainActivityState.java
+ com.example.mycore.modules.main.MainActivityState
+com/example/mycore/models/UserProfile.java
+ com.example.mycore.models.UserProfile
+com/example/mycore/databinding/FragmentFirstBinding.java
+ com.example.mycore.databinding.FragmentFirstBinding
+com/example/mycore/modules/main/MainFragmentState.java
+ com.example.mycore.modules.main.MainFragmentState
+com/example/mycore/databinding/FragmentMainBinding.java
+ com.example.mycore.databinding.FragmentMainBinding
+com/example/mycore/databinding/ActivitySplashBinding.java
+ com.example.mycore.databinding.ActivitySplashBinding
+com/example/mycore/databinding/ActivityMainBinding.java
+ com.example.mycore.databinding.ActivityMainBinding
+com/example/mycore/common/core/State.java
+ com.example.mycore.common.core.State
